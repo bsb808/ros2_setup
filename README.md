@@ -1,5 +1,8 @@
 # ros2_setup
 
+--symlink-install doesn't work - are you kidding me?
+https://github.com/colcon/colcon-core/pull/592
+
 
 Example for multiple projects
 
